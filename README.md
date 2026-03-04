@@ -1,6 +1,6 @@
 # 🚀 C++ Exercises
 
-A collection of 23 C++ programming exercises ranging from **beginner to intermediate-advanced** levels.
+A collection of 23 C++ programming exercises ranging from **beginner to advanced** levels.
 
 ## 📋 Difficulty Levels
 
